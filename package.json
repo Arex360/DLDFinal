@@ -1,0 +1,14 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "Car",
+  "main": "index.js",
+  "scripts": {
+    "test": "startapp"
+  },
+  "keywords": [
+    "command"
+  ],
+  "author": "Muhammad Owais",
+  "license": "ISC"
+}
